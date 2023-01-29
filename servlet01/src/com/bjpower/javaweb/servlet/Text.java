@@ -8,7 +8,7 @@ public class Text {
         System.out.println("master");
         System.out.println("master");
         System.out.println("text");
-        System.out.println("天天有喜");
+        System.out.println("天天有喜啦啦啦啦");
 
     }
 }
