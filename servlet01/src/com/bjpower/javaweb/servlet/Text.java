@@ -9,6 +9,6 @@ public class Text {
         System.out.println("master");
         System.out.println("text");
         System.out.println("天天有喜啦啦啦啦");
-
+        System.out.println("帝皇铠甲合体");
     }
 }
